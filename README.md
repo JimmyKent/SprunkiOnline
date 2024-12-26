@@ -1,6 +1,6 @@
 # SprunkiOnline
 
-Welcome to visit [SprunkiOnline](https://sprunkionline.net/) to play Sprunki Online.
+[SprunkiOnline](https://sprunkionline.net/) to play Sprunki Online.
 
 ---
 
